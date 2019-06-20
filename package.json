@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ergarrity/react-intro-FEM/issues"
   },
-  "homepage": "https://github.com/ergarrity/react-intro-FEM#readme"
+  "homepage": "https://github.com/ergarrity/react-intro-FEM#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
 }
